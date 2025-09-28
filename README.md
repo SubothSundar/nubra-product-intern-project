@@ -45,17 +45,17 @@
   #### Screen 1: Trade History
   The user's journey begins in a familiar place. A clear call-to-action is placed next to eligible trades, making the feature discoverable and contextual.
   
-  (Insert Wireframe Image 1 Here)
+ 
   
   #### Screen 2: Strategy Replay & Automate
   This is the core of the feature. The two-column layout allows the user to reference their original trade while easily understanding and modifying the generated algorithm.
   
-  (Insert Wireframe Image 2 Here)
+  
   
   #### Screen 3: Backtest Results
   The results are presented in a clean, digestible format. Key performance metrics are highlighted, and the next steps are clear, encouraging the user to move forward with deployment.
   
-  (Insert Wireframe Image 3 Here)
+
   
   ## Conclusion
   The "Strategy Replay & Automate" feature is more than an incremental improvement; it is a strategic initiative that can become a core pillar of the Nubra user journey. By creating an intuitive and trust-building bridge to automation, Nubra can:
